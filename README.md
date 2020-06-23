@@ -1,5 +1,5 @@
 This repo contains materials from a series of Tea-Talks given at African Masters in Machine Intelligence by various reseachers.
-YouTube video playlist here: https://www.youtube.com/playlist?list=PLIkciUlEyyvJX2T7dbiHPumqnQ3XOudrK
+YouTube video playlist [here](https://www.youtube.com/playlist?list=PLIkciUlEyyvJX2T7dbiHPumqnQ3XOudrK)
 
 ## Featured Talks by;
 
