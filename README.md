@@ -3,9 +3,9 @@ YouTube video playlist [here](https://www.youtube.com/playlist?list=PLIkciUlEyyv
 
 ## Featured Talks by;
 
-1. Mustafa Alghali
-2. Vincent Dumoulin, Google Brain, Montreal
-3. Elliot Creager
-4. Eleni Triantafillou
-5. Will Grathwohl
-6. James Lucas 
+1. Mustafa Alghali, AMMI-Rwanda; Unity Technologies
+2. Vincent Dumoulin - Google Brain, Montreal
+3. Elliot Creager - Uni. of Toronto; Vector Institute; Google Brain, Toronto
+4. Eleni Triantafillou - Uni. of Toronto; Vector Institute
+5. Will Grathwohl - Uni. of Toronto; Vector Institute
+6. James Lucas - Uni. of Toronto; Vector Institute
