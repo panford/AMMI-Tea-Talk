@@ -9,3 +9,4 @@ YouTube video playlist [here](https://www.youtube.com/playlist?list=PLIkciUlEyyv
 4. Eleni Triantafillou - Uni. of Toronto; Vector Institute
 5. Will Grathwohl - Uni. of Toronto; Vector Institute
 6. James Lucas - Uni. of Toronto; Vector Institute
+7. Kris Sankaran - MILA, Montreal
